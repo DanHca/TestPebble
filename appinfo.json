@@ -1,0 +1,21 @@
+{
+    "shortName": "AppMsgExample",
+    "longName": "AppMsgExample",
+    "versionLabel": "1.0",
+    "capabilities": [
+        ""
+    ],
+    "appKeys": {
+        "message": 1,
+        "status": 0
+    },
+    "companyName": "dannyh@hotmail.com",
+    "watchapp": {
+        "watchface": false
+    },
+    "resources": {
+        "media": []
+    },
+    "versionCode": 1,
+    "uuid": "1afac099-0186-4ea9-9b60-26840926f25c"
+}
